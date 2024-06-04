@@ -1,7 +1,7 @@
 name: target_tactics_plus
-description: "A new Flutter plugin project."
+description: "is have sim."
 version: 0.0.1
-homepage:
+homepage: https://github.com/liangliang521/gethaveSim.git
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
@@ -16,6 +16,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  dio: ^4.0.4
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
